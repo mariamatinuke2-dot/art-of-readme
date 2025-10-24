@@ -1,0 +1,21 @@
+
+# 🌸 GlowTrack — Your Daily Skincare Companion
+GlowTrack is a simple and intuitive skincare tracking app designed to help users stay consistent with their routines, understand their skin better, and celebrate progress over time. 
+
+## ✨ Features
+- Daily Routine Tracker: Log your morning and night skincare steps.  
+- Progress Journal: Upload photos or notes to track visible improvements.  
+-Product Library: Save the products you use with ingredients and effects.  
+- Reminders: Never forget to cleanse or moisturize again.  
+- Mood & Skin Logs:Track how your mood, sleep, or diet affects your skin.
+
+## 🎯 Objective
+To promote consistent skincare habits and self-awareness through daily reflection and progress monitoring.
+
+---
+
+## 🧪 How It runs
+1.	Clone the repository: git clone https://github.com/yourusername/glowtrack.git
+2.	Navigate into the project folder: cd glowtrack
+3.	Install dependencies: (if you’re using Node.js) npm install
+4.	Start the development server: npm start
